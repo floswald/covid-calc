@@ -35,7 +35,7 @@ ui <- fluidPage(
             
             ### Disclaimer:
             
-            This is not an epidemiological model and simplifies reality in some important dimensions. I wrote it for my own usage and there is no guarantee about accuracy and correctness in here, so use at your own risk. [Please check the source code](code). 
+            This is not an epidemiological model and simplifies reality in some important dimensions. I wrote it for my own usage and there is no guarantee about accuracy and correctness in here, so use at your own risk. [Please check the source code](https://github.com/floswald/covid-calc). 
             
              ### Sources:
              
